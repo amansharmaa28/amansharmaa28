@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman28sharma" target="blank"><img src="https://img.shields.io/twitter/follow/aman28sharma?logo=twitter&style=for-the-badge" alt="aman28sharma" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Website**
+- 🔭 I’m currently working on **BLS International Project**
 
 - 🌱 I’m currently learning **pyhton, DBMS**
 
