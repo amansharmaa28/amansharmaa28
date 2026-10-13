@@ -1,15 +1,15 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Aman Deep Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> .Net Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansharmaa28&label=Profile%20views&color=0e75b6&style=flat" alt="amansharmaa28" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aman28sharma" target="blank"><img src="https://img.shields.io/twitter/follow/aman28sharma?logo=twitter&style=for-the-badge" alt="aman28sharma" /></a> </p>
 
-- 🔭 I’m currently working with **XtraNet Technologies Pvt. Ltd.**
+- 🔭 I’m currently working with **Bajaj Life**
 
-- 🌱 I’m currently learning **pyhton, DBMS**
+- 🌱 I’m currently Developing **Gen AI Tool**
 
 - 📫 How to reach me **amandeepsharamaa28@gamil.com**
 
